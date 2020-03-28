@@ -1,5 +1,4 @@
 ------------------------------------ Crytography Basics
-
 - Cryptanalysis
 - Vigenere Cypher
     1. Algorithm
@@ -8,6 +7,15 @@
 - We need algorithm that uses binary data.
 
 - Exclusive OR [XOR]
+
+- Kerckhoffs's principle - as long you know the key on encryption you'll understand everything. Key is important.
+
+- Data At Rest
+- Data In directions_transit
+- Data in Process
+
+
+
 
 
 ------------------------------------ Crytography Methods
