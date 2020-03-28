@@ -34,7 +34,7 @@
     - Block
 
 -Data Encryption Standard(DES)
-    
+- Short Key
 
 
 
