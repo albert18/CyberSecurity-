@@ -1,0 +1,217 @@
+
+
+------------------------------------ CIA of Security
+------------------------------------ What is rick
+------------------------------------ Threat actors
+1. Open-Source Intelligence(OSINT)
+
+2. Type Threat Actors
+-Script kiddies - Trivial Knowledge
+-Hacktivist - Intent is motivation
+-Organized crime - group of smart people
+-Nation State - Entire Country
+
+3. APT (Advanced Persistent Threat) 
+
+4. Insiders - someone inside the company
+
+5. Competitors - another company with competition with another company
+------------------------------------ Managing Risk
+1. Risk assessment
+-Vulnerability Assessment
+-Threat Assessment
+
+2. Nessus - a program in your local area network
+3. Penetration Testing (PEN)
+
+-Some -Threat Assessment
+4. Adversarial Threat
+5. Accidental
+6. Structural
+7. Enviromental
+
+-Risk Response
+8.  Metigation
+9. Risk Transference
+10. Risk Acceptance
+11. Risk Avoidance
+
+-Framework(Helpfuls you with risk management)
+12. NIST 800-27
+13. ISACA Framework
+------------------------------------ Guides for Managing Risk
+- Benchmark
+- Secure Configuration
+- Platforma and Vendors guide
+- Operating System
+- Network Infrastucture Devices - Routers, modem
+------------------------------------  Security Controls
+1. Administrative Control(Management Control) - Laws, Guidelines
+2. Technical Control - firewall, password link, encryption
+3. Physical Control - guards, gates, Keys
+
+- Security Control Functions
+1. Deterrent
+2. Preventative
+3. Detective
+4. Corrective
+5. Compensating
+------------------------------------ Interesting Security Controls
+- Mandatory Vacation
+- Job Rotation
+- Multi-Person Control
+- Separation of duties
+- Principles of least privilege
+------------------------------------ Defense in Depth
+- Diversity vs Redundancy
+------------------------------------ I.T. Security Governace
+Governace - influenes how to organization conducts IT Security
+- Governace
+1. Law and Regulations(HIPAA)
+2. Standards(PCI-DSS)
+3. Best Practices
+4. Common Sense
+
+- Create Document
+1. Policies(acceptable policies)
+2. Organization Standards
+
+- Procedure
+1. Step by Step
+------------------------------------ Security Policies
+1. Acceptable user Policy
+2. Data Sentiviry and Clafication
+3. Access Control Policies
+4. Password Policy
+5. Care and use of equipment
+6. Privay Policies
+7. Personnel Policeis
+------------------------------------ Framework
+Theirs a lot framework
+
+Example
+1. NIST SP800-372. 
+2. ISACA IT insfrastructure
+3. ISO 27000
+
+Risk Management Framework
+1. Categorize
+2. Select
+3. Implement
+4. Assessment
+5. Authorize
+6. Monitor
+------------------------------------ Quantitative Risk Calculations
+- SINGLE LOST EXPECTANCY(SLE)
+- Annualized Rate of Occurrence(ARO)
+
+Calculate (SLE) x (ARO)
+- Annualized Cost of Expectency
+------------------------------------ Business Impact Analysis
+1. B1A Basics 
+ - Determine mission process
+ - Identify critical systems
+ - Single point-of-failure
+ - Identify resource requirements
+ - Identify recovery priorities
+2. Impact
+ - Property(not real estate)
+ - people
+ - Life
+ - finance
+ - Reputation
+ 
+ PIA (Privacy Impact Assessment) - Estimates the cost of loss of personal privacy or proprietary data.
+ PTA (Privacy Threshold Assessment)
+ 
+ (RTO) Recovery Time Objective - minimum time to restore critical condition or what's the impact.
+ (RPO) Recovery Point Objective - Maximum amount of data that can be lost without substantial impact.
+------------------------------------ Organizing Data
+- Public Data
+	- No Restrictions
+	- Confidential
+	- Private
+	- Proprietary
+	- Protected Health Information(PHI)
+- Data Roles
+	- Owner 
+	- Steward/Custodian
+	- Privacy Officer
+- Data Users
+	- Users
+	- Priviledge users
+	- Executive users
+	- System Administrator
+	- Data Owner/System Owner
+------------------------------------ Security Training
+-Onboarding (new hire, contractors)
+	- Background Check
+	- Non-disclosure agreement (NDA)
+	- Standard operating procedures
+	- Specialized issues
+	- Rules of behavior
+	- General Security
+- offboarding
+	- Disable account
+	- Return Credential
+	- Exit Interview
+	- Knowledge Transfer
+
+PII - Personally Identifiable information
+
+- Personeel Management Controls
+	- Mandatory vacations
+	- Job Rotation
+	- Separation of Duties
+
+-Role-base data Controls
+	- System Owner
+	- Data Owner
+	- User
+	- Priviledge User
+	- Executive User(Read only)
+------------------------------------ Third Party Agreements
+- Business Partner Agreement (BPA)
+	- Primary Entities
+	- Time Frame
+	- Financial Issues
+	- Management 
+
+Service Level Agreement (SLA)
+- Service to be provided
+- Minimum up-time
+- Response Time(Contacts)
+- Start and Date Sector
+
+Interconnection Security Agreement (ISA)
+
+------------------------------------ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

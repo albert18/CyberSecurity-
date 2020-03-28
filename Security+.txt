@@ -1,0 +1,69 @@
+-----Exploring and Tools
+1. Threats, Attack and Vulnerabilities 
+2. Technology and tool
+3. Architecture and Design
+4. identity and access management
+5.  Risk Management
+6. Cryptography and PKI
+
+--------------------------------------------------------------------------------------------------------------------------------MALWARE
+
+-Ways to spread Mechanism
+1. Propagation Mechanism
+2. Payload
+
+1. Viruses - SPREAD THROUGHT ACTION 
+2. Worm - SPREAD BY THEMSELVES- First outbreak in 1988, was written Robert T. Morris
+3. Trojan Horse - POSE AS BENEFICIAL SOFTWARE - (RAT) Remote Access Trojan
+
+1. Adware - Online Ads(Pop-up advertisement, legimate ads, search engine)
+2. Spyware - Gathers Information without user's consent. (Key Stoke, Web Browsing, search hard drive and cloud storage)
+3. Ransomware - Block acccess - (Arrives via email attachment, Encrypts local files)
+
+-Preventing Malware
+1. Anti-malware software
+2. Security Patches
+3. User Education
+
+-Backdoors and logic bombs
+1. Backdoors - provide workaround acccess(hardcoded accounts,default passwords, unknown acccess, Unknown access channels)
+2. Logic Bombs - Deliver a triggered payload(file content, API call result, Date/Time reached)
+
+-Advance Malware
+1. Rootkits - escalate user priviledges(Backdoors, botnet agents, adware/spyware, anti-theft mechanism)
+	-user mode rootkits
+		1.Run with normal user priviledges
+		2. Are easy to write and difficult to detect
+	-Kernel mode rootkits
+		1.Run with system priviledges
+		2. Are difficult to detect and easy to detect
+2. Polymorphism - changing their own code, Using encryption
+3. Armored Viruses - Prevent reverse engineering
+
+-Undersyand Botnets
+Botnets - renting out computing power, delivering spam, DDos attacks, BitCoin
+	- Commands and control networks relay orders
+	- Commincation must be indirect and redundant
+		-Internet Relay Char(IRC)
+		-Twitter
+		-Peer to peer withing the botnet
+
+-Advanced persisten threats - ZERO-Day Vulnerability
+1. Notify the vendor of the vulnerability
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------Understand Attackers
+
+
+
+
+
+
+
+
+
+
+
+
+
