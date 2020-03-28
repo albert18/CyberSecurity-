@@ -177,23 +177,23 @@ PII - Personally Identifiable information
 	- Financial Issues
 	- Management 
 
-Service Level Agreement (SLA)
-- Service to be provided
-- Minimum up-time
-- Response Time(Contacts)
-- Start and Date Sector
+-Service Level Agreement (SLA)
+	- Service to be provided
+	- Minimum up-time
+	- Response Time(Contacts)
+	- Start and Date Sector
 
-Interconnection Security Agreement (ISA)
-1. Statement of requirements
-2. System security consideratios
-3. Topilogical drawing
-4. Signature authority
+-Interconnection Security Agreement (ISA)
+	1. Statement of requirements
+	2. System security consideratios
+	3. Topilogical drawing
+	4. Signature authority
 
-Memorandum of understanding/Agreement
-1. Purpose of the Interconnection
-2. Relevant authorities
-3. Specify the responsibilities
-4. Define the terms of the agreement
+-Memorandum of understanding/Agreement
+	1. Purpose of the Interconnection
+	2. Relevant authorities
+	3. Specify the responsibilities
+	4. Define the terms of the agreement
 ------------------------------------ 
 
 
