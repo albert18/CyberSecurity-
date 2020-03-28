@@ -24,11 +24,25 @@
     - Temporary
     - Provides perfect forward secrecy
 
+- Asymmetric Encryption - is used to send a secure session key.
+    - Uses a key pair
+    - public key and private key
+
+- Cryptosystem 
+------------------------------------ Symmetric Cryptosystem
+- Symmetric Key Algorithm 
+    - Block
+
+-Data Encryption Standard(DES)
+    
 
 
------------------------------------- Symmetric Methods
------------------------------------- 
------------------------------------- 
+
+
+
+
+------------------------------------ Symmetric Block Modes
+------------------------------------ RSA Cryptsystems
 ------------------------------------ 
 ------------------------------------ 
 ------------------------------------ 
