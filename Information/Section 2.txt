@@ -1,5 +1,13 @@
 ------------------------------------ Crytography Basics
 
+- Cryptanalysis
+- Vigenere Cypher
+    1. Algorithm
+    2. Key for encryption
+
+- We need algorithm that uses binary data.
+
+- Exclusive OR [XOR]
 
 
 ------------------------------------ Crytography Methods
