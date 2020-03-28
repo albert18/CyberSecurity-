@@ -188,6 +188,11 @@ Interconnection Security Agreement (ISA)
 2. System security consideratios
 3. Topilogical drawing
 4. Signature authority
+
+Memorandum of understanding/Agreement
+1. Purpose of the Interconnection
+2. Relevant authorities
+3. Specify the responsibilities
 ------------------------------------ 
 
 
