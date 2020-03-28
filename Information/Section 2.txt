@@ -13,13 +13,20 @@
 - Data At Rest
 - Data In directions_transit
 - Data in Process
-
-
-
-
-
 ------------------------------------ Crytography Methods
------------------------------------- 
+- Session Key
+    - In-band
+    - Out-Of-Band
+
+- Symmetric encryption - is the primary way we encrypt data.
+
+- Ephemeral Key
+    - Temporary
+    - Provides perfect forward secrecy
+
+
+
+------------------------------------ Symmetric Methods
 ------------------------------------ 
 ------------------------------------ 
 ------------------------------------ 
