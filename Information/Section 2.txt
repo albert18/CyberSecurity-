@@ -50,13 +50,17 @@
         - 64-bit Block 
         - Key Size: 32-448 bit
 
-Advance Encryption Standard (AES)
+- Advance Encryption Standard (AES)
     - Block Cipher
     - 64-bit Block 
     - Key Size: 128, 192 or 256-bits
     - 10,12 or 14 Rounds
 
-
+- RC4
+    - Streaming Cipher
+    - 1 bit a time
+    - 1 round
+    - Key-size 40-2048 bit
 
 
 
