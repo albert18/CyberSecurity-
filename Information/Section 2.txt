@@ -62,7 +62,10 @@
     - 1 round
     - Key-size 40-2048 bit
 ------------------------------------ Symmetric Block Modes
-- Electronic Code Book
+- Electronic Code Book - block mode will always oupt the same result
+
+- A binary block is plain text converted into 16-bit, 64, 128 binary ciphertext
+
 - Block Modes 
     - Cipher Block Chaining (CBC) - We add Intitiazation Vector
     - Cipher Feedback (CFB)
