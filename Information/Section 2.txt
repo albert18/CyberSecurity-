@@ -84,6 +84,13 @@ Diffie-Hellman - asymmetric alogorithm
 PGP Encryption - Generate Random Key - Encrypt using reciever
 
 Public Key > Certification Key > Intermediate User > individual user
+
+- Changes
+    PGP Certificate - Encrypt mass storage, signing, disk encryption, bitlocker,File vault,
+    enterprise cloud solutions, is not free
+- OpenPGP
+    Free, Encrypted email, PKI support, S/MIME
+
 ------------------------------------ 
 ------------------------------------ 
 ------------------------------------ 
