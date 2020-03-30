@@ -95,6 +95,8 @@ PROTONEMAIL - a service to encrypt your email.
 GPG(GNU Privacy Guard)
 ------------------------------------ HASHING
 HASH - provides integrety
+    1. Hashes are one-way
+    2. 
 
 
 ------------------------------------ 
