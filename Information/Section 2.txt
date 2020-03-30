@@ -77,13 +77,10 @@
 
  - (ECC) Elliptic Curve Cryptography - can create a smaller key than RSA provides the same security with increased performance.
 ------------------------------------ Diffie-Hellman
+
 Diffie-Hellman - asymmetric alogorithm
 
-
-
-
-
------------------------------------- 
+------------------------------------ FGP/PG
 ------------------------------------ 
 ------------------------------------ 
 ------------------------------------ 
