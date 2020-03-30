@@ -110,6 +110,7 @@ Pass Storage
 ------------------------------------ HMAC
 
 ------------------------------------ Steganoraphy
+Steganoraphy - hides data within data
 Image Steganoraphy
 
 ------------------------------------ 
