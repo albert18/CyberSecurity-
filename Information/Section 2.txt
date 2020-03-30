@@ -100,9 +100,11 @@ HASH - provides integrety
 
 Hash Types
     1. MD5 - uses 128 bit Hash
-    2. Secure HASH Algorithm (SHA) - (SHA-1, 160 bit)
-
-
+    2. Secure HASH Algorithm (SHA) - 
+        (SHA-1, 160 bit)
+        SHA-256, SHA 512
+    3. RIPEMD - Race Integrity Primitives Evaluation Message Digest
+        128, 160, 256, 320 bit hash
 ------------------------------------ 
 ------------------------------------ 
 ------------------------------------ 
