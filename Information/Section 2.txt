@@ -91,7 +91,12 @@ Public Key > Certification Key > Intermediate User > individual user
 - OpenPGP
     Free, Encrypted email, PKI support, S/MIME
 
------------------------------------- 
+PROTONEMAIL - a service to encrypt your email.
+GPG(GNU Privacy Guard)
+------------------------------------ HASHING
+HASH - provides integrety
+
+
 ------------------------------------ 
 ------------------------------------ 
 ------------------------------------ 
