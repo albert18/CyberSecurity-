@@ -98,6 +98,10 @@ HASH - provides integrety
     1. Hashes are one-way
     2. 
 
+Hash Types
+    1. MD5 - uses 128 bit Hash
+    2. Secure HASH Algorithm (SHA) - (SHA-1, 160 bit)
+
 
 ------------------------------------ 
 ------------------------------------ 
