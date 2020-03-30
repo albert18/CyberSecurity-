@@ -80,7 +80,8 @@
 
 Diffie-Hellman - asymmetric alogorithm
 
------------------------------------- FGP/PG
+------------------------------------ PGP/GPG
+PGP Encryption - Generate Random Key - Encrypt using reciever
 ------------------------------------ 
 ------------------------------------ 
 ------------------------------------ 
