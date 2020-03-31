@@ -118,7 +118,15 @@ When you send a public key
     - it comes with digital Certificate
     - Digital Signature
     - Third party that you really trust
------------------------------------- 
+
+You can generate your own Certificate
+    - It's called unsigned Certificate
+
+- Web Of Trust - requires lots of maintenance
+
+PREFERRED - Public Key Infrastructure(CA - Certificate Authority)
+
+------------------------------------ Public Key Infrastructure
 ------------------------------------ 
 ------------------------------------ 
 
