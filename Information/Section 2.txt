@@ -127,7 +127,10 @@ You can generate your own Certificate
 PREFERRED - Public Key Infrastructure(CA - Certificate Authority)
 
 ------------------------------------ Public Key Infrastructure
------------------------------------- 
+PKCS
+X.509
+
+CRL- Certificate revocation list
 ------------------------------------ 
 
 ------------------------------------ 
