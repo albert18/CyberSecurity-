@@ -114,6 +114,10 @@ Steganoraphy - hides data within data
 Image Steganoraphy
 
 ------------------------------------ Certificates and Trust
+When you send a public key
+    - it comes with digital Certificate
+    - Digital Signature
+    - Third party that you really trust
 ------------------------------------ 
 ------------------------------------ 
 ------------------------------------ 
