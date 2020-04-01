@@ -1,9 +1,20 @@
 IDENTITY and ACCESS Management
 ------------------------------------ Identification
-
+- Pin 
+- Capcha
+- Smart matCardAvatar
+- RSA Key
+- Facial Recognition
+- Something you do
+- Somewhere you are
 
 ------------------------------------ Authorization Concepts
+- Permission
 
+- Admistraion Assigned Permission
+- Right/Privileges
+    - Least Privileges
+    - Separation Duties
 ------------------------------------ 
 ------------------------------------ 
 ------------------------------------ 
