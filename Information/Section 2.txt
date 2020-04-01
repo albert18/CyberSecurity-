@@ -137,6 +137,14 @@ Can Reverse Hash
 
 - Brute-Force Attack
 
+- Rainbow-Table Attack 
+    1. Already has hash in it
+    2. Massive data
+    3. When password is a little harder to crack
+
+- Salt - salted hash table(harder to crack)
+    1. Fixed Value
+
 ------------------------------------ 
 ------------------------------------ 
 ------------------------------------ 
