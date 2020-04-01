@@ -131,7 +131,10 @@ PKCS
 X.509
 
 CRL- Certificate revocation list
------------------------------------- 
+------------------------------------ Crytographic Attacks
+Hacking hashes - The hardest in hacking is getting there.
+Can Reverse Hash
+
 
 ------------------------------------ 
 ------------------------------------ 
