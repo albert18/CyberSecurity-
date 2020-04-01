@@ -135,6 +135,7 @@ CRL- Certificate revocation list
 Hacking hashes - The hardest in hacking is getting there.
 Can Reverse Hash
 
+- Brute-Force Attack
 
 ------------------------------------ 
 ------------------------------------ 
