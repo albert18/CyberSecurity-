@@ -145,6 +145,9 @@ Can Reverse Hash
 - Salt - salted hash table(harder to crack)
     1. Fixed Value
 
+- Key Stretching - generate complicated key.
+    1. PBKDF2
+    2. Bcrypt
 ------------------------------------ 
 ------------------------------------ 
 ------------------------------------ 
