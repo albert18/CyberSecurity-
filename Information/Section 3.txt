@@ -15,7 +15,13 @@ IDENTITY and ACCESS Management
 - Right/Privileges
     - Least Privileges
     - Separation Duties
------------------------------------- 
+------------------------------------ Access Control List
+1. Authorization Models
+    (MAC) Mandatory Access Control
+    (DAC) Discretionary Access Control
+    (RBAC) Role-base Access Control
+
+Access Control List
 ------------------------------------ 
 ------------------------------------ 
 ------------------------------------ 
