@@ -22,7 +22,18 @@ IDENTITY and ACCESS Management
     (RBAC) Role-base Access Control
 
 Access Control List
------------------------------------- 
+------------------------------------ Password security
+Good Security Policy
+    - Complexity
+    - Expiration
+    - Password History
+
+Window Local Security Policy
+
+Local Security Policy
+
+Group Policy Object(Multiple User, Apply Group, Apply Domain) - Need to use Window Server
+
 ------------------------------------ 
 ------------------------------------ 
 ------------------------------------ 
