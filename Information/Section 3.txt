@@ -33,13 +33,19 @@ Window Local Security Policy
 Local Security Policy
 
 Group Policy Object(Multiple User, Apply Group, Apply Domain) - Need to use Window Server
-
------------------------------------- 
------------------------------------- 
------------------------------------- 
------------------------------------- 
------------------------------------- 
------------------------------------- 
+------------------------------------ Linux File Permission
+Not Using Linux - But in the future this might help
+------------------------------------ Windowss File Permission
+NTFS  Permission - (modify,access)
+Inheritance
+------------------------------------  User Account Management
+Continuous Access Monitoring(Track login/logout)
+Shared Account - Bad security
+Multiple Account - use different user & password, Log everything
+Default Account - Defaut/Generic account
+------------------------------------ AAA
+------------------------------------ Authentication Methods
+------------------------------------ Single Sign-on
 ------------------------------------ 
 ------------------------------------ 
 ------------------------------------ 
