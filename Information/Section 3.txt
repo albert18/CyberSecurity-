@@ -44,6 +44,11 @@ Shared Account - Bad security
 Multiple Account - use different user & password, Log everything
 Default Account - Defaut/Generic account
 ------------------------------------ AAA
+Authentication, Authorization and Accounting(AAA)
+
+
+
+
 ------------------------------------ Authentication Methods
 ------------------------------------ Single Sign-on
 ------------------------------------ 
