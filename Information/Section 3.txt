@@ -47,7 +47,22 @@ Default Account - Defaut/Generic account
 Authentication, Authorization and Accounting(AAA)
 
 Remote Authentication Dial-In User Service
-Dial-Network - Radius Server
+
+Dial-Network 
+Radius Server
+Radius Client
+Radius Supplicant
+
+-Radiues is for network
+Radius can use up to 4 different ports
+    1812
+    1813
+    1654
+    1646
+
+TACACS - Terminal Access Controller Access-Contorl System Plus
+    - also form of triple AAA
+    - Uses TCO port 49
 
 
 
