@@ -38,8 +38,15 @@ Linux System
 NetCat - does run anything (can open port, run client)
     (sudo netcat)
 ------------------------------------ Network Scanners
+Nmap - hard to use, commonly use in linux but can run on windows
+    (nmap -v -sn {Your port number}/24)
+    (nmap -v -A scanme.nmap.org)
 
+Zenmap -
 
+wireshark SB Network Inventory
+
+Rogue System
 ------------------------------------ Protocol Analyzers
 
 
