@@ -1,6 +1,7 @@
------------------------------------- Tools of the Trade ------------------------------------ 
+                                                                     ------------------------------------ Tools of the Trade ------------------------------------ 
 
 ------------------------------------ OS utilities Part 1 - Run in command line
+
 You use PING in command line
     (ping www.google.com)
     or
@@ -10,17 +11,32 @@ You use PING in command line
 
 netstat -
     (netstat -n) -  trying to talk too
-    (netstat -a) - whose talking to me
+(netstat -a) - whose talking to me
 
 Trace Route -
     (tracert www.google.com)
 
 ARP - address resoulution protocol - someone doing naughty on your switches
     (arp -a)
-    
+
 ------------------------------------ OS utilities Part 2
+ipconfig - windows tool
+    (ipconfig)
+    (ipconfig /all)
+
+ifconfig - Linux tool
+    ip addr
+
+NSlookup - DNS problem
+    (nslookup www.google.com)
+    (nslookup)
 
 
+Linux System
+    dig www.google.com
+
+NetCat - does run anything (can open port, run client)
+    (sudo netcat)
 ------------------------------------ Network Scanners
 
 
