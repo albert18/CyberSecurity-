@@ -5,6 +5,19 @@ You use PING in command line
     (ping www.google.com)
     or
     (ping www.google.com -4)
+    or
+    (ping -t www.google.com)
+
+netstat -
+    (netstat -n) -  trying to talk too
+    (netstat -a) - whose talking to me
+
+Trace Route -
+    (tracert www.google.com)
+
+ARP - address resoulution protocol - someone doing naughty on your switches
+    (ar)
+    
 ------------------------------------ OS utilities Part 2
 
 
