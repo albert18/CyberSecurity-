@@ -63,10 +63,19 @@ Radius can use up to 4 different ports
 TACACS - Terminal Access Controller Access-Contorl System Plus
     - also form of triple AAA
     - Uses TCO port 49
-
-
+    - Auditing and log files
 
 ------------------------------------ Authentication Methods
+Password Authentication Protocal (PAP) - very easy, basic, simple authhentication, not what we use.
+
+Challenge-HandShake Authentication Protocol (CHAP) - old protocol, Challenge message, create hash
+
+NT LAN Manager - Version 2 -   
+
+Kerberos -  Authentication protocol - only windows domain, MICROSOFT    
+    Key Distribution Center (KDC)
+
+
 ------------------------------------ Single Sign-on
 ------------------------------------ 
 ------------------------------------ 
