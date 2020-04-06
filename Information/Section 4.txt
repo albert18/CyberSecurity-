@@ -1,6 +1,6 @@
 ------------------------------------ Tools of the Trade ------------------------------------ 
 
------------------------------------- OS utilities Part 1
+------------------------------------ OS utilities Part 1 - Run in command line
 You use PING in command line
     (ping www.google.com)
     or
@@ -16,7 +16,7 @@ Trace Route -
     (tracert www.google.com)
 
 ARP - address resoulution protocol - someone doing naughty on your switches
-    (ar)
+    (arp -a)
     
 ------------------------------------ OS utilities Part 2
 
