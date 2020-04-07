@@ -58,6 +58,28 @@ Analyzer -
 
 Broadcast Storm - 
 ------------------------------------ SNMP
+Simple Network Management Protocol - allow us administer and manage a network device.
 
+Agent - software build in printer comes manufacturer.
+    UDP 161 - unEncrypted
+    TLS 10161 - Encrypted
 
+Manage device
+SNMP Manager - run some application/software communicate with manage device
+Network Management Station
+Management Information Base - MIB
+
+GET - same as webserver but talking to server
+Trap - 
+WALK -
+SNMPWalk
+
+Lots of version 1,2,3
+
+SNMP Version 2 added basic encryption
+SNMP Version 3 added TLS encryption
+
+Community 
+
+Nagios, Zabbix and Spiceworks
 ------------------------------------ Logs
