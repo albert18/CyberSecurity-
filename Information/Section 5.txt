@@ -5,7 +5,7 @@ Denial of Service attack - To deny service
 
 Dos Attack types
 1. Volume Attack - ping flood, udp flood
-2. Protocol Attack
+2. Protocol Attack - Syn Flood/ tcp syn attack - syn ack
 3. application atttack
 
 
