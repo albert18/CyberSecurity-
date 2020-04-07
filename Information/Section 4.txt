@@ -83,3 +83,37 @@ Community
 
 Nagios, Zabbix and Spiceworks
 ------------------------------------ Logs
+So many tools
+
+Non-network logs & network logs
+
+Non-Network Events - Events that happen on a host even though it's not connected to a network.
+    - Host Starting
+    - Host Shutdown
+    - Reboot
+    - Services starting, stopping and failing
+    - Operating system updates
+    - Security - succeed or failing
+    - Date, Time, process/source account event number, event description
+
+Network Event - 
+    OS- ot system level
+        - Remote login(fail or no)
+        - activity in web server
+        - activity firewall
+
+Monitoring as a service(MAAS)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
