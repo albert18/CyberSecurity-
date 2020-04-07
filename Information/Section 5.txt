@@ -3,7 +3,10 @@
 ------------------------------------ Denial of Service
 Denial of Service attack - To deny service
 
-
+Dos Attack types
+1. Volume Attack
+2. Protocol Attack
+3. application atttack
 
 
 
