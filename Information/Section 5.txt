@@ -13,8 +13,16 @@ Amplication Attack -
 Distributed denial-of-service-attack - is the nightmare of internet this day.
     1. Botnet - Zombie
 
-
 ------------------------------------ Host Threats
+- Spam - unsolicated email
+- Phishing & Spear Phishing - Spam but basically getting information from you.
+- Spim - to recieve spam via instant messenging
+- Vishing - very danger, unsolicated voice: e.g. contact_phone
+- Clickjacking - clickbait, making you do something bad.
+- Typo squatting - take advantage of URL and when miss type.
+- Domain Hijacking -
+- Priviledge Escalation - 
+
 ------------------------------------ Man-in-the-middle
 ------------------------------------
 ------------------------------------
