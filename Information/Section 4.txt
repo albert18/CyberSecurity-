@@ -48,8 +48,15 @@ wireshark SB Network Inventory
 
 Rogue System
 ------------------------------------ Protocol Analyzers
+Wireshark - been around 20 years or more
 
+(he Wireshark analyzer)
 
+Sniffer - some type of software - grabbing data in and out from the interface.
+
+Analyzer - 
+
+Broadcast Storm - 
 ------------------------------------ SNMP
 
 
