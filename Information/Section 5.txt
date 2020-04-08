@@ -31,9 +31,11 @@ First way to do it
     - Wired man-in-the-middle(Spoofing)
 
 Ettercap - program to use -----------------------------ATTN
+WireSharks
 
+ Man-in-the-middle - gather data(user,password)
 
-
+ ARP poisoning
 
 
 
