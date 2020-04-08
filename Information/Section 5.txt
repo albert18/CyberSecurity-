@@ -37,10 +37,14 @@ WireSharks
 
  ARP poisoning
 
+- URl Hijacking Typosquatting
+- Domain Hijacking
 
+Manipulating the M1M data - 
+Replay Attack
 
-
-
+Downgrade attack - mainly for web server, slideshow
+Session Hijacking - get in the middle of conversation and inject in middle - (Firesheep)
 
 
 
