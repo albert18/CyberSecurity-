@@ -46,11 +46,15 @@ Replay Attack
 Downgrade attack - mainly for web server, slideshow
 Session Hijacking - get in the middle of conversation and inject in middle - (Firesheep)
 
+------------------------------------ System Resiliency 
+Scalability - adding more e.g. server when needed 
+Elasticity - adding more e.g. server when needed but scale it back when dont need it
+Redundancy - putting move serve to multiple location / allocation
+Non-persistence - 
+Snapchat -
+Known State -
+Roll Back - roll back 
 
-
-
-
------------------------------------- System Resiliency
 ------------------------------------
 ------------------------------------
 ------------------------------------
