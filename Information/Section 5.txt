@@ -23,8 +23,28 @@ Distributed denial-of-service-attack - is the nightmare of internet this day.
 - Domain Hijacking -
 - Priviledge Escalation - 
 
------------------------------------- Man-in-the-middle
-------------------------------------
+------------------------------------ Man-in-the-middle(Third party sneaking in conversation)
+1. Intercept between
+
+First way to do it
+    - Wireless man-in-the-middle(Bluetooth, NF)
+    - Wired man-in-the-middle(Spoofing)
+
+Ettercap - program to use -----------------------------ATTN
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------ System Resiliency
 ------------------------------------
 ------------------------------------
 ------------------------------------
