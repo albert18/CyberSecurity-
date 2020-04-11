@@ -70,7 +70,14 @@ Hybrid Raid = 0+1 (RAID 01)
 
 Synology drive - 
 
-------------------------------------
+------------------------------------ NAS & SAN
+NETWORK ATTACH STORAGE(NAS) - ETHERNET TCP
+STORAGE AREA STORAGE(SAN) - Block-Level Storage
+
+Fibre Channel - expensive, (HOST BUT ADAPTER(HBA))
+
+iSCSI - 
+iSCSI Initiator - 
 ------------------------------------
 ------------------------------------
 ------------------------------------
