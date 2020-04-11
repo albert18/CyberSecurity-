@@ -64,7 +64,11 @@ RAID 2 - (Dedicated Parity Drive), Called STRIPE sometime.
 
 
 RAID 5 - minimum 3 drive or more.
+RAID 6 - 
 
+Hybrid Raid = 0+1 (RAID 01)
+
+Synology drive - 
 
 ------------------------------------
 ------------------------------------
