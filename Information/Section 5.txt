@@ -56,6 +56,16 @@ Known State -
 Roll Back - roll back 
 
 ------------------------------------ Raid
+RAID 0 - speeds up performace, but has no data intergrity.
+RAID 1 - Mirrored, even number of drive.(Slow things down)
+
+Parity - 
+RAID 2 - (Dedicated Parity Drive), Called STRIPE sometime.
+
+
+RAID 5 - minimum 3 drive or more.
+
+
 ------------------------------------
 ------------------------------------
 ------------------------------------
