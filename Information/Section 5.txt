@@ -140,8 +140,18 @@ Load Balancing - distrubuting work so no computer can get overwhelm.
 Virtualize Server - 
 
 ------------------------------------ Disk enhanced_encryption
+Slow down your system
 
-------------------------------------
+TPM - trusted platform module - 
+
+PGP - Pretty Good Privacy
+
+TrueCrypt -
+
+BitLocker - 
+
+For MAC - File Vault
+------------------------------------ Hardware/Firmware Security
 ------------------------------------
 ------------------------------------
 ------------------------------------
