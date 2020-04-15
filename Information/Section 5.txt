@@ -100,7 +100,33 @@ Electromagnetic interference (EMI) -
 Electrostatic Discharge(ESD) - Use wrist strap
 
 ------------------------------------ Host Hardening
-------------------------------------
+Host Hardening just the core itself
+
+1. Disabling Services (win > services) - netstat -a
+
+2. Default Passwords - IOT, 
+
+3. Disabling UnNecessary Account
+
+4. Patch Management - updates
+    1. Monitor
+    2. Test
+    3. Evaluate
+    4. Deploy Patch
+    5. Document
+
+5. Anti Malware
+    1. Training(Your Users)
+    2. Procedures
+    3. Monitoring - security log, DNS,
+    4. Intrusion Detection System
+    5. Malware byte - Third party anti-malware
+
+6. Firewall 
+    1. Whitelist
+    2. BlackList
+    
+------------------------------------ Data System Security
 ------------------------------------
 ------------------------------------
 ------------------------------------
