@@ -152,7 +152,19 @@ BitLocker -
 
 For MAC - File Vault
 ------------------------------------ Hardware/Firmware Security
-------------------------------------
+Full Disk Encryption(DFE) on windows we use BITLOCKER
+
+You need to turned on TPM in BIOS before using BITLOCKER
+
+ALSO available is 
+Self-Encrypting Drive(SED) - 
+
+Secure Boot - 
+Secure Supply Chain - 
+
+Hardware Security Module - 
+
+------------------------------------ Secure OS Types
 ------------------------------------
 ------------------------------------
 ------------------------------------
