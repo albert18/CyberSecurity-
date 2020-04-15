@@ -127,7 +127,20 @@ Host Hardening just the core itself
     2. BlackList
     
 ------------------------------------ Data System Security
-------------------------------------
+Permission based -
+    Data integrity
+    speed
+    High availabilty
+
+RAID - 
+
+Clustering - multiple computer doing in 1 job(Expensive, 1 Primary machine)
+Load Balancing - distrubuting work so no computer can get overwhelm.
+
+Virtualize Server - 
+
+------------------------------------ Disk enhanced_encryption
+
 ------------------------------------
 ------------------------------------
 ------------------------------------
