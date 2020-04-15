@@ -91,13 +91,15 @@ Disabling port
     Has to do in BIOS
     Turn on ports(Cant take off usb port)
 
+------------------------------------ RFI, EMI, ESD
 
-    
+Radio frequency interference (RFI) -
 
+Electromagnetic interference (EMI) -
 
+Electrostatic Discharge(ESD) - Use wrist strap
 
-------------------------------------
-------------------------------------
+------------------------------------ Host Hardening
 ------------------------------------
 ------------------------------------
 ------------------------------------
