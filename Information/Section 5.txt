@@ -78,13 +78,15 @@ Fibre Channel - expensive, (HOST BUT ADAPTER(HBA))
 
 iSCSI - 
 iSCSI Initiator - 
------------------------------------- Physical Hardening
+------------------------------------ Physical Hardening - ON THE E
 Removeable media controls
 
 Shut down its functionality
     windows key > mmc
 
-Data Executio Prevention(DEP)
+Data Execution Prevention(DEP)
+    windows key > system > Advanced system settings > Advanced Tab > Settings > Data Execution Prevention Tab
+
     
 
 
