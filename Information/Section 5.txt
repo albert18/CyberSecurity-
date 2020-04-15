@@ -87,6 +87,11 @@ Shut down its functionality
 Data Execution Prevention(DEP)
     windows key > system > Advanced system settings > Advanced Tab > Settings > Data Execution Prevention Tab
 
+Disabling port
+    Has to do in BIOS
+    Turn on ports(Cant take off usb port)
+
+
     
 
 
