@@ -195,7 +195,27 @@ Turn off all ports
 Patches devices
 
 ------------------------------------ Malware Software that run that you dont want or doing naughty things
-Virus - 
+Virus - attach to other files, propogate, spread other devices, active
+
+Adware - Programs that trying to put ads
+
+Spyware - some form of malware, it could be tracking what your doing, stealing cookie information.
+
+Trojan - Running to on your system that could be but actually bad 
+    REMOTE ACCESS TROJAN(RATs)
+
+Ransomware/Crypto-Malware - does stealing information and locks it and pay money to unlock it.
+
+Logic Bomb - are triggered by event.
+
+Rootkit & Backdoor 
+    Rootkit - rootkit is software that escalates Priviledges to execute other things on computer.
+    Backdoor - allow access remotely 
+
+Polymorphic Malware, Keylogger, & Armored Viruses - 
+    Polymorphic Malware - Changes itself
+    Armored Viruses - a virus that design to make it hard for malware people to figure it out. 
+    keylogger - record key stroke
 
 ------------------------------------  Analyzing Output
 
