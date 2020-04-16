@@ -194,7 +194,8 @@ Turn off all ports
 
 Patches devices
 
------------------------------------- Malware
+------------------------------------ Malware Software that run that you dont want or doing naughty things
+Virus - 
 
 ------------------------------------  Analyzing Output
 
