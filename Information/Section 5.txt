@@ -165,8 +165,41 @@ Secure Supply Chain -
 Hardware Security Module - 
 
 ------------------------------------ Secure OS Types
-------------------------------------
-------------------------------------
-------------------------------------
-------------------------------------
-------------------------------------
+Server OS - design to support server e.g. Windows Server.
+
+Workstation - Desktion Version. E.g. windows 10, Ubuntu
+
+Embedded systems - Own OS, Appliance
+
+Kiosk - Limited Function
+
+Mobile OS - Android, Apple
+------------------------------------ Securing Peripherals
+Bluetooth  - distance - design to work close by
+    Class1 is 328
+    Class2 is 33
+    Class3 is 3
+
+Blue Jacking
+
+WPS
+
+Hidden Wifi
+
+Display - monitors, USB port
+
+Rubber Ducky - dangerous tool - capture everything -------------------------------------- Password, inputer
+
+Turn off all ports 
+
+Patches devices
+
+------------------------------------ Malware
+
+------------------------------------  Analyzing Output
+
+------------------------------------ IDS and IPS
+
+------------------------------------ Automation Strategies
+
+------------------------------------ Data Destruction
