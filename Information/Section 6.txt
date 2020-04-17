@@ -22,6 +22,18 @@ Network Firewall - filter port, IP address, URLs
 
 
 ------------------------------------ Network Topologies Review
+
+LAN - Local Area Network
+WAN - Wide Arer Network
+MAN - Metropolitan Area Network
+
+TCP/IP - Transmission Control Protocol/Internet Protocol
+
+Instranet
+Exstranet
+
+
+
 ------------------------------------ Network Zone Review
 ------------------------------------
 ------------------------------------
