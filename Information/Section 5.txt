@@ -218,6 +218,11 @@ Polymorphic Malware, Keylogger, & Armored Viruses -
     keylogger - record key stroke
 
 ------------------------------------  Analyzing Output
+Anti-Malware/Anti Virus
+
+e.g. windows defender
+
+Host Based Firewall - 
 
 ------------------------------------ IDS and IPS
 
