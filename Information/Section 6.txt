@@ -12,6 +12,15 @@ Flood Guarding -
 
 Spanning Tree Protocol(STP) - Prevent loops floods
 
+
+
+Router filter & forware based on IP address
+
+Gatewat NAT
+
+Network Firewall - filter port, IP address, URLs
+
+
 ------------------------------------ Network Topologies Review
 ------------------------------------ Network Zone Review
 ------------------------------------
