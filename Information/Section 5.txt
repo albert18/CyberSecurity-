@@ -237,6 +237,19 @@ IPS proactively deny network traffic based on a security profile if that packet 
 
 Consistent
 
-
-
 ------------------------------------ Data Destruction
+
+When you destory Media you will do media sanitization.
+
+-When clearing and wiping data.
+Clearing
+
+Wiping
+
+Purge
+
+defausser
+
+Cryto erase
+
+Destroy(Burning, pulping(water), Shredded Hard Drive)
