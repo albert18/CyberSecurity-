@@ -223,9 +223,20 @@ Anti-Malware/Anti Virus
 e.g. windows defender
 
 Host Based Firewall - 
-
+ 
 ------------------------------------ IDS and IPS
 
+ Intrusion  Dectection Software(IDS) - analyze and monitor network traffic for signs that indicate attackers are using a 
+ known cyberthreat to infiltrate or steal data from your network. IDS systems compare the current network activity to a known threat database to 
+ detect several kinds of behaviors like security policy violations, malware, and port scanners.
+
+Intrusion Prevention Systems (IPS) - live in the same area of the network as a firewall, between the outside world and the internal network. 
+IPS proactively deny network traffic based on a security profile if that packet represents a known security threat.
+
 ------------------------------------ Automation Strategies
+
+Consistent
+
+
 
 ------------------------------------ Data Destruction
