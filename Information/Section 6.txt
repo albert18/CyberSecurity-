@@ -1,7 +1,16 @@
 ------------------------------------ LAN Review
 
+Switches
+Switches filter & forward data based on MAC address.
 
+Virtual Local Area Networks (VLAN) - separate an existing physical network into multiple logical networks. 
+Thus, each VLAN creates its own broadcast domain. Communication between two VLANs can only occur through a router that is connected to both
 
+VLAN provides layer 2 separation of networks.
+
+Flood Guarding -
+
+Spanning Tree Protocol(STP) - Prevent loops floods
 
 ------------------------------------ Network Topologies Review
 ------------------------------------ Network Zone Review
