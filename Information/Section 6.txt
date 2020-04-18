@@ -32,9 +32,11 @@ TCP/IP - Transmission Control Protocol/Internet Protocol
 Instranet
 Exstranet
 
-
-
 ------------------------------------ Network Zone Review
+LAN - Wired (VLAN) ---
+
+DMZ
+
 ------------------------------------
 ------------------------------------
 ------------------------------------
