@@ -37,6 +37,10 @@ LAN - Wired (VLAN) --- we can take one more switches and chop up in diffrent sub
 
 DMZ - Demilitarized Zone - 
 
+Wireless network
+
+Guest Network
+
 ------------------------------------
 ------------------------------------
 ------------------------------------
