@@ -33,9 +33,9 @@ Instranet
 Exstranet
 
 ------------------------------------ Network Zone Review
-LAN - Wired (VLAN) ---
+LAN - Wired (VLAN) --- we can take one more switches and chop up in diffrent subdomain.
 
-DMZ - Demilitarized Zone
+DMZ - Demilitarized Zone - 
 
 ------------------------------------
 ------------------------------------
