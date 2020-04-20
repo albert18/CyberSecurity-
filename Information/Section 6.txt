@@ -82,6 +82,10 @@ Two distinct versions of EAP-TTLS exist: original EAP-TTLS (a.k.a. EAP-TTLSv0) a
 
 802.1x - allow connection
 
+LEAP - invented by cisco(No good)
+EAP-Fast
+
+PEAP - is microsoft verion of leap
 
 
 ------------------------------------
