@@ -42,7 +42,12 @@ Wireless network
 Guest Network
 
 Air Gap
-------------------------------------
+------------------------------------ Network Access Control
+Wirelss Network
+Remote Access
+VPN 
+
+Point to Point Protocol (PPP) - 
 ------------------------------------
 ------------------------------------
 ------------------------------------
