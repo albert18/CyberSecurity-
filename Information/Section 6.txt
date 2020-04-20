@@ -87,8 +87,23 @@ EAP-Fast
 
 PEAP - is microsoft verion of leap
 
+------------------------------------ The Network Firewall
 
-------------------------------------
+STATELESS Firewalls
+Stateless firewalls watch network traffic and restrict or block packets based on source and destination addresses or other static values. They're not 'aware' of traffic patterns or data flows. A stateless firewall uses simple rule-sets that do not account for the possibility that a packet might be received by the firewall 'pretending' to be something you asked for.A stateless firewall filter, also known as an access control list (ACL), does not statefully inspect traffic. Instead, it evaluates packet contents statically and does not keep track of the state of network connections.
+
+Purpose of Stateless Firewall Filters
+The basic purpose of a stateless firewall filter is to enhance security through the use of packet filtering. Packet filtering enables you to inspect the components of incoming or outgoing packets and then perform the actions you specify on packets that match the criteria you specify. The typical use of a stateless firewall filter is to protect the Routing Engine processes and resources from malicious or untrusted packets.
+
+STATEFUL Firewall
+Stateful firewalls can watch traffic streams from end to end. They are aware of communication paths and can implement various IP Security (IPsec) functions such as tunnels and encryption. In technical terms, this means that stateful firewalls can tell what stage a TCP connection is in (open, open sent, synchronized, synchronization acknowledge or established). It can tell if the MTU has changed and whether packets have fragmented. etc.
+Neither is really superior and there are good arguments for both types of firewalls. Stateless firewalls are typically faster and perform better under heavier traffic loads. Stateful firewalls are better at identifying unauthorized and forged communications.
+
+
+Access Control List (ACL) - 
+
+Implicit Deny -
+
 ------------------------------------
 ------------------------------------
 ------------------------------------
