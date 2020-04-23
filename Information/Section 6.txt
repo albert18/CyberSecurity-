@@ -167,6 +167,17 @@ SSL/ TLS - user port 443
 OpenVPN - Unique tunnel, user port 1194 but can easily change.
 
 ------------------------------------ IPSec
+Authentication Header - Provides Integrity Check
+Example: AH > TCP > Data > IP Address
+It will create HMAC
+
+
+Encapsulation Security Payload - 
+Example: AH > TCP > Data > IP Address
+It will create AES
+
+Transport Mode
+
 
 ------------------------------------ NIDS/NIPS
 
