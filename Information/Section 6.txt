@@ -128,7 +128,14 @@ hide.me/en/proxy
 
 TOR Network
 
-------------------------------------
+Breakdown:
+Forward Proxy hides the cloents from the server by forwarding the message to the server.
+
+Forward Proxy can be configured for caching, content filtering, and firewall capability.
+
+Reverse Proxy hides the server, and can provide load balancing, and caching for high activity pages.
+
+------------------------------------ Honeypots
 ------------------------------------
 ------------------------------------
 ------------------------------------
