@@ -129,15 +129,42 @@ hide.me/en/proxy
 TOR Network
 
 Breakdown:
-Forward Proxy hides the cloents from the server by forwarding the message to the server.
+Forward Proxy hides the clients from the server by forwarding the message to the server.
 
 Forward Proxy can be configured for caching, content filtering, and firewall capability.
 
 Reverse Proxy hides the server, and can provide load balancing, and caching for high activity pages.
 
 ------------------------------------ Honeypots
+Honeypot - creates a safe environment to capture and interact with unsolicited traffic on a network. 
+HoneyBOT is an easy to use solution ideal for network security research or as part of an early warning IDS
+
+Free Software - Honeybot
+
+HoneyNet -
 
 ------------------------------------ Virtual Private Network
+Connection Options
+    1. Leased Line
+    2. Public wireless      
+
+End Points
+
+Remote Acccess VPN
+
+Site To Site
+
+Split VS Full Tunneling
+
+Split VPN it faster
+
+PPTP(Point-to-Point Protocol)
+L2TP(Layer 2 Tunnel Protocol)
+Pure IPsec
+
+SSL/ TLS - user port 443
+
+OpenVPN - Unique tunnel, user port 1194 but can easily change.
 
 ------------------------------------ IPSec
 
