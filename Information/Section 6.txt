@@ -178,6 +178,8 @@ It will create AES
 
 Transport Mode
 
+Tunnel Mode - 
+Example: NEW IP ADDRESS > AH > TCP > Data > NEW IP Address
 
 ------------------------------------ NIDS/NIPS
 
