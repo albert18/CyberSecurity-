@@ -181,9 +181,33 @@ Transport Mode
 Tunnel Mode - 
 Example: NEW IP ADDRESS > AH > TCP > Data > NEW IP Address
 
+ISAKMP - creates a security association (SA Between Two Host)
+
+Encrypting UnSecured Protocols - 
 ------------------------------------ NIDS/NIPS
 
+NIPS Detection - 
+    1. Active/Inline - Block from router
+    2. Detection Methods - behavioral/anomaly, Signature-based, rule-base, Heuristic
+    
+
+Networking tap device - check it out on google
+
+Collectors
+
+Correlation Engine - logs, checks everything
 ------------------------------------ SIEM
+Security Information and Event management(SIEM) - 
+    Aggregation - we are grabbing data from different places and stored it
+        Write Once, read many(WORM) - 
+
+
+    Correlation - analyze data and report back
+        Alert - 
+        Triggering - 
+
+Popular SIEM software - Splunk, arcsight, elk(free)
+
 ------------------------------------
 ------------------------------------
 ------------------------------------
