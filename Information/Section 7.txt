@@ -37,8 +37,13 @@ HTTP strict transport security (HSTS)
 If you really want to be secure, use VPN.
 
 ------------------------------------ Vulnerabilities with wireless access phonelink_setup
+Rogue Access Point - Unauthorize 
 
+Evil Twin
 
+802.11 Jammer - Illegal
+
+Deauthentication Attack - 
 
 ------------------------------------ Cracking 802.11 - WP
 ------------------------------------
