@@ -15,10 +15,32 @@ WPA - Wireless protected Access -
 
 WPA2 - 802.11 standard
 
+Quick Review
+SSID is associated to the MAC address on a Wireless access point and is know as a BSSID.
 
-------------------------------------
-------------------------------------
-------------------------------------
+WEP - proves Authentication and Encryption, but can be easily hacked.
+
+8021.11i is also known as WPA2 uses AES Authentication.
+
+------------------------------------ Living in Open network
+Session Cookie - 
+
+SSL stripping a.k.a. replay attack
+    - use secure Protocol
+
+HTTPS -
+    Watch Browser website
+
+
+HTTP strict transport security (HSTS)
+
+If you really want to be secure, use VPN.
+
+------------------------------------ Vulnerabilities with wireless access phonelink_setup
+
+
+
+------------------------------------ Cracking 802.11 - WP
 ------------------------------------
 ------------------------------------
 ------------------------------------
