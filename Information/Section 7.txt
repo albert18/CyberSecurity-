@@ -12,6 +12,10 @@ Wired Equavalent Privacy(WEP) - downside has limitation(Can be hacked easily)
 AES Encryption - 
 
 WPA - Wireless protected Access -
+
+WPA2 - 802.11 standard
+
+
 ------------------------------------
 ------------------------------------
 ------------------------------------
