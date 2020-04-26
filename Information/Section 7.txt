@@ -5,7 +5,7 @@ SSID - Service SET identifier
 
 BSSID - Basic Service SET identifier
 
-Wired Equavalent Privacy(WEP)
+Wired Equavalent Privacy(WEP) - downside has limitation(Can be hacked easily)
 
 ------------------------------------
 ------------------------------------
