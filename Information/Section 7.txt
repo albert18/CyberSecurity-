@@ -9,6 +9,9 @@ Wired Equavalent Privacy(WEP) - downside has limitation(Can be hacked easily)
 
 802.11i(Authentication) - 
 
+AES Encryption - 
+
+WPA - Wireless protected Access -
 ------------------------------------
 ------------------------------------
 ------------------------------------
