@@ -1,5 +1,12 @@
 ------------------------------------ Wireless Review
-WAP - Bridge between 802.11 and Ethernet
+WAP(Wireless Application Protocol) - Bridge between 802.11 and Ethernet
+
+SSID - Service SET identifier
+
+BSSID - Basic Service SET identifier
+
+Wired Equavalent Privacy(WEP)
+
 ------------------------------------
 ------------------------------------
 ------------------------------------
