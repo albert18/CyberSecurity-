@@ -61,6 +61,13 @@ Wifi Protected Setup - push of a button - Will share pre keyed
 Weakness - 8 digit key
     - 
 
+Reaver tool - 
+
+If you want to stop attack - be very careful
+    1. Firmware 
+    2. Get rid of older router
+    3. Modern wireless router
+
 ------------------------------------
 ------------------------------------
 ------------------------------------
