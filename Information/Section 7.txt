@@ -57,7 +57,9 @@ Dictionary File -
 
 
 ------------------------------------Cracking 802.11 - WPS
-
+Wifi Protected Setup - push of a button - Will share pre keyed 
+Weakness - 8 digit key
+    - 
 
 ------------------------------------
 ------------------------------------
