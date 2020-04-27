@@ -46,6 +46,12 @@ Evil Twin
 Deauthentication Attack - 
 
 ------------------------------------ Cracking 802.11 - WP
+802.11 oldest security standard system - 2 size key 64 and 128 bit
+IV Attack -
+
+Tool - AirCrack
+
+
 ------------------------------------
 ------------------------------------
 ------------------------------------
