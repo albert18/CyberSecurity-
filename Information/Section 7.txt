@@ -97,7 +97,7 @@ Antenna Types -
     Parabolic - 
     Patch Graphics - 
 
-2.4 vs 5 bands
+2.4ghz vs 5ghz bands
 
 ------------------------------------ Virtualization Basics
 ------------------------------------ Virtual Security
