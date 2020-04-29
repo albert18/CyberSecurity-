@@ -90,8 +90,14 @@ Monitor Wireless network -
 Define how to defend wireless clients -
 
 ------------------------------------ Wireless Access Point
+Antenna Types - 
+    Omni - Round
+    Dipole - little antenna(Extremely common)
+    Directional - 
+    Parabolic - 
+    Patch Graphics - 
 
-
+2.4 vs 5 bands
 
 ------------------------------------ Virtualization Basics
 ------------------------------------ Virtual Security
