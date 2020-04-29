@@ -68,6 +68,26 @@ If you want to stop attack - be very careful
     2. Get rid of older router
     3. Modern wireless router
 
-------------------------------------
-------------------------------------
+------------------------------------ Wireless Hardening
+Survey installation issues - 
+    SSID  
+        1. Heat map
+        2. Maintenance
+    MAC address
+        1. WAPS
+        2. AP Locations
+    Band & Channels and signal
+
+    --- Kismet survey tool ---
+
+WIDS - 
+
+
+Maintaining existing wireless network - 
+
+Monitor Wireless network - 
+
+Define how to defend wireless clients -
+
+------------------------------------ Wireless Access Point
 ------------------------------------
