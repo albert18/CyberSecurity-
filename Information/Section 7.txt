@@ -90,4 +90,9 @@ Monitor Wireless network -
 Define how to defend wireless clients -
 
 ------------------------------------ Wireless Access Point
-------------------------------------
+
+
+
+------------------------------------ Virtualization Basics
+------------------------------------ Virtual Security
+------------------------------------ Containers
