@@ -100,5 +100,23 @@ Antenna Types -
 2.4ghz vs 5ghz bands
 
 ------------------------------------ Virtualization Basics
+Virtual Machine
 ------------------------------------ Virtual Security
+Oracle Virtual Box
+
+Cloud Base Virtualization
+
+-Security
+-Patch Management
+-Centralized hardware
+- High Availability
+- Testing & Sandboxing
+
+Network Separation - 
+
+Snapshots and backup - 
+
+Virtual Threats - Malware, not patching properly
+
+Hardening Virtualization - 
 ------------------------------------ Containers
