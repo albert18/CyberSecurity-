@@ -120,7 +120,7 @@ Virtual Threats - Malware, not patching properly
 
 Hardening Virtualization - 
 ------------------------------------ Containers
-Application library and binaries
+Application library and binaries - Same as Container in Azure
 
 
 ------------------------------------
