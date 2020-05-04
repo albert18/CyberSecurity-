@@ -128,7 +128,7 @@ Application library and binaries - Same as Container in Azure
 
 ------------------------------------ SAAS
 ------------------------------------ Deployment Model
-Virtual Desktop remote - Remote Desktop
+Virtual Desktop Integration - Remote Desktop
 
 
 
