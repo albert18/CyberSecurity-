@@ -150,11 +150,18 @@ How to secure static host:
 
 No anti-malware in cisco router
 
-Defense in depth -
+Defense in depth - 
 
 ------------------------------------ Mobile Connectivity
-------------------------------------
-------------------------------------
+SATCOM - 
+Bluetooth - 
+Near-field communication(NFC) - 
+ANT/ANT+ -
+USB on-to-go -
+Wifi and Tethering - 
+
+------------------------------------ Deploying mobile devices
+------------------------------------ 
 ------------------------------------
 ------------------------------------
 ------------------------------------
