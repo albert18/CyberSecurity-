@@ -192,6 +192,16 @@ Recording microphone/GPS tracking
 
 Payment Methods - paypal, google pay store etc
 ------------------------------------ Mobile Deployment Management
+Application Managament
+Database
+
+Geolocation
+Geofencing
+Push notification services
+Password and Pin
+Biometrics
+Screen lock
+Remote Wipe
 
 
 
