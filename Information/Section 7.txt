@@ -167,6 +167,13 @@ Mobile Deployment Application -
 
 Corporate owned, business only (COBO) - Company owned
 
+Corporate owned, personally enable (COPE) Everyone has the same device
+
+Choose your own device(CYOD)
+
+Bring your device(BYOD)
+
+
 ------------------------------------ 
 ------------------------------------
 ------------------------------------
