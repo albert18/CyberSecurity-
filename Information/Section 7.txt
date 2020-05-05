@@ -142,5 +142,20 @@ For example HVAC -
 Supervisory Control and adata Acquisition (SCADA) - 
 
 
------------------------------------- Mobile Enforcement
+How to secure static host:
+    - change default passwords
+    - turn off unnesessary services
+    - Firmware updates
+
+
+No anti-malware in cisco router
+
+Defense in depth -
+
+------------------------------------ Mobile Connectivity
+------------------------------------
+------------------------------------
+------------------------------------
+------------------------------------
+------------------------------------
 
