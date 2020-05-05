@@ -161,6 +161,12 @@ USB on-to-go -
 Wifi and Tethering - 
 
 ------------------------------------ Deploying mobile devices
+Mobile Application Management - 
+
+Mobile Deployment Application - 
+
+Corporate owned, business only (COBO) - Company owned
+
 ------------------------------------ 
 ------------------------------------
 ------------------------------------
