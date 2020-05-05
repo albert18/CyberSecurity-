@@ -263,5 +263,5 @@ Different kind of fire extingusher
 Do not use water on electric
 
 Halon
-FM200
+FM200 - is the magic stuff.
 Seal off the server room
