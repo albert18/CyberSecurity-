@@ -173,8 +173,31 @@ Choose your own device(CYOD)
 
 Bring your device(BYOD)
 
------------------------------------- 
-------------------------------------
-------------------------------------
-------------------------------------
+------------------------------------ Mobile Deployment
+Sideloading - Google play store, Apple
+
+Carries Unlocking - AT&T, Verizon - means lock
+
+Rooting/Jail Breaking - Auto updates disabled, trouble accessing the "Store", Exposure to malware
+
+Fireware OTA Updates
+
+Camera use - camera monitoring
+
+SMS/MMS - texting
+
+External Media - 
+
+Recording microphone/GPS tracking
+
+Payment Methods - paypal, google pay store etc
+------------------------------------ Mobile Deployment Management
+
+
+
+
+------------------------------------ Physical Controls
+------------------------------------ HVAC
+------------------------------------ Fire Surpression
+
 
