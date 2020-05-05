@@ -210,7 +210,40 @@ Full Device Encryption
 Container
 
 ------------------------------------ Physical Controls
+Deterrent Physical Control
+
+Outsude lighting
+Sign
+Security guard
+
+Fences
+Barricades
+
+K-ratings(4 types)
+
+k4 - stops 30pmh
+k8 - stops 40pmh
+k12 - stops 50pmh
+
+Double Man Trap
+Cabling System
+Air Gap(separation)
+
+Safe, Lock Cabinet
+Cable Locks
+Screen Filter
+
+--Detective Control
+1. Alarms(Physical)
+2. Infrated sensors
+3. Log Files
+
+Compensating & Corrective control
 ------------------------------------ HVAC
+
+
+
+
 ------------------------------------ Fire Surpression
 
 
