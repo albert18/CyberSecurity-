@@ -203,8 +203,11 @@ Biometrics
 Screen lock
 Remote Wipe
 
+Context-aware Authentication
+Storage segmentation
+Full Device Encryption
 
-
+Container
 
 ------------------------------------ Physical Controls
 ------------------------------------ HVAC
