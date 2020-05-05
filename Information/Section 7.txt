@@ -240,10 +240,28 @@ Screen Filter
 
 Compensating & Corrective control
 ------------------------------------ HVAC
+Server Rooms
+Infrared Camera
+Zoned-Base HVAC
 
+Hot and Cold Aisle
 
+Leave Air Gap
+User VLAN for isolation
+MAC filtering
 
-
+Remote Monitoring
 ------------------------------------ Fire Surpression
 
+Different kind of fire extingusher
+1. Class A - design for woods
+2. Class B - Gas 
+3. Class C - Electric
+4. Class D - Combustion Metal
+5. Class E - Kitchen
 
+Do not use water on electric
+
+Halon
+FM200
+Seal off the server room
