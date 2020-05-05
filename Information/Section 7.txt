@@ -128,10 +128,19 @@ Application library and binaries - Same as Container in Azure
 
 ------------------------------------ SAAS
 ------------------------------------ Deployment Model
-Virtual Desktop Integration - Remote Desktop
+Remote Desktop
+Virtual Desktop(VDE) is accessing a remote physical desktop
+Virtual Desktop Integration(VDI) virtualized enviroment in the cloud
 
 
 
 ------------------------------------ Static Hosts
+Industrial Control System(ICS) - 
+
+For example HVAC -
+
+Supervisory Control and adata Acquisition (SCADA) - 
+
+
 ------------------------------------ Mobile Enforcement
 
