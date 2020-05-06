@@ -35,11 +35,18 @@ Anything start with 10 is private address
 
 
 2.IPv6 -
+128 bit
+Link Local-FE80
+Intetnet Address start with 2001
 
 
 
 
+TCP - does most do the work, connection protocol, oriented packet
 
+UDP - connection, no acknowledgement
+
+ICMP - hadling ARP and ping
 
 
 
