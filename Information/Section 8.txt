@@ -6,6 +6,22 @@ Putty and wireshark - is a software
 
 Transport Layer Security (TLS)
 ----------------------------------------- Network Models
+OSI - Seven Layer Model
+1.Physical - types of cable
+2.Data Link - network card, switches
+3.Network - Logical addresses, ip address
+4.Transport - disable packet, go on other side
+5.Session - actually connection between to system
+6.Presentation - Convert data that you can read
+7.Application - smarts in the application. e.g. MS office
+
+TCP/IP Model
+1.Network Interface
+2.Internet Link
+3.Transport
+4.Application
+
+
 ----------------------------------------- Know your protocols - TCP/IP
 -----------------------------------------Transport Layer Security(TLS)
 ----------------------------------------- Internet Service Hardening
