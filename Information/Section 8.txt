@@ -21,8 +21,28 @@ TCP/IP Model
 3.Transport
 4.Application
 
-
 ----------------------------------------- Know your protocols - TCP/IP
+IP addressing(2 types)
+1.IPv4 - 172.16.254.1 - 8 binary - 4x8 = 32 bit
+
+Private Address
+NAT(Network address information)
+
+Anything start with 10 is private address
+10.0.0.0 - 10.255.255.255 private IPv4 address range
+172.16.0.0 - 173.31.255.255 private IPv4 address range
+192.168.0.0 - 192.168.255.255 private IPv4 address range
+
+
+2.IPv6 -
+
+
+
+
+
+
+
+
 -----------------------------------------Transport Layer Security(TLS)
 ----------------------------------------- Internet Service Hardening
 ----------------------------------------- Protecting your servers
