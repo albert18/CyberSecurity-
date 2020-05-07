@@ -112,9 +112,23 @@ USE SECURE PROTOCOL ONLY TO SAFE
 SSl accelerator
 Load Balancer
 distributed denial of service
-
-
 ----------------------------------------- Secure Code Development
+Waterfall Model
+
+
+Agile
+Sprint
+Scrum
+blocker
+
+
+Devs-Op
+
+
+
+
+
+
 ----------------------------------------- Secure Deployment Concepts
 ----------------------------------------- Code quality and testing
 ----------------------------------------- 
