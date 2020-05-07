@@ -107,18 +107,17 @@ SSL/TLS encrypted IMAP - port 933
 IMAP - Port 110
 SSL/TLS encrypted IMAP - port 995
 
-
 USE SECURE PROTOCOL ONLY TO SAFE
 ----------------------------------------- Protecting your servers
-
-
-
+SSl accelerator
+Load Balancer
+distributed denial of service
 
 
 ----------------------------------------- Secure Code Development
 ----------------------------------------- Secure Deployment Concepts
 ----------------------------------------- Code quality and testing
------------------------------------------
+----------------------------------------- 
 -----------------------------------------
 -----------------------------------------
 -----------------------------------------
