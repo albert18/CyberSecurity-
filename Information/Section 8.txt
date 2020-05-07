@@ -130,11 +130,17 @@ Devs-Op
 -Configure
 -Monitor
 
-
+Secure Development Operations
+-Security Automation Tools
+-Change management/version control
+-Continuous Intergration
+-Baselining
+-Immutable systems
 
 
 
 ----------------------------------------- Secure Deployment Concepts
+
 ----------------------------------------- Code quality and testing
 ----------------------------------------- 
 -----------------------------------------
