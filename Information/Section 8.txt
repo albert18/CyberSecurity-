@@ -121,9 +121,14 @@ Sprint
 Scrum
 blocker
 
-
 Devs-Op
-
+-Plans
+-Create
+-Verify
+-Package
+-Release
+-Configure
+-Monitor
 
 
 
