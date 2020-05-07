@@ -79,13 +79,19 @@ LDAP(Light Weight Directory Access Protocol) Port 389
 
 RDP port 3389 - Remote desktop Protocol
 
-
-
-
-
-
-
 -----------------------------------------Transport Layer Security(TLS)
+SSL and TLS, HTTPS
+TLS - older 
+SSL - Newer
+
+1. Symmetric Encryption
+2. Kew Exchange
+3. Authentication
+4. HMAC
+
+
+
+
 ----------------------------------------- Internet Service Hardening
 ----------------------------------------- Protecting your servers
 ----------------------------------------- Secure Code Development
