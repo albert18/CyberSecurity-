@@ -136,10 +136,17 @@ Secure Development Operations
 -Continuous Intergration
 -Baselining
 -Immutable systems
-
-
-
+-Infrastrature Code
 ----------------------------------------- Secure Deployment Concepts
+
+
+
+
+
+
+
+
+
 
 ----------------------------------------- Code quality and testing
 ----------------------------------------- 
