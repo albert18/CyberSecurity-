@@ -42,6 +42,26 @@ Watering hole attack
 
 
 --------------------------------------------- Attacking the websites
+
+(CLF)Common Log File - 
+
+
+cPanel - 
+
+(XSS)Cross site scripting - 
+
+
 --------------------------------------------- Attacking Application
+Injection Attack
+1. Code Injection
+2. SQL
+3. LDAP - lightweight directory access protocol
+
+x.500
+
+Buffer Overflow
+
+
+
 --------------------------------------------- Exploiting a target
 --------------------------------------------- Vulnerability Impact
