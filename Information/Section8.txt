@@ -3,11 +3,41 @@ Tracert
 
 Advanced IP Scanner
 
+MS Baseline Security Analyzer
 
----------------------------------------------
----------------------------------------------
----------------------------------------------
----------------------------------------------
----------------------------------------------
----------------------------------------------
----------------------------------------------
+nexpose
+
+openvas
+
+--------------------------------------------- Vulnerability Scanning Assessment
+Credential = with password
+Non-Credential - no password
+
+Intrusive -
+Non-Instrusive -
+
+False Positives
+
+PCIDSS Compliance Package
+
+NOTE: Get AUTHORIZE BEFORE DOING ANYTHING
+--------------------------------------------- Social Engineering Principles
+Authority
+Intimidation
+Consensus
+Scarcity
+Familiarity
+Trust
+Urgency
+--------------------------------------------- Social Engineering Attacks
+
+Physical Attack - face to face
+Virtual Attack - email etc
+
+
+
+
+--------------------------------------------- Attacking the websites
+--------------------------------------------- Attacking Application
+--------------------------------------------- Exploiting a target
+--------------------------------------------- Vulnerability Impact
