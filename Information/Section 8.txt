@@ -138,17 +138,15 @@ Secure Development Operations
 -Immutable systems
 -Infrastrature Code
 ----------------------------------------- Secure Deployment Concepts
+Compiled vs Runtime Code
 
+Compiled - write a code, compiler and executable code
 
-
-
-
-
-
-
-
+Proper error hadling
 
 ----------------------------------------- Code quality and testing
+Static Code Analyzer
+
 ----------------------------------------- 
 -----------------------------------------
 -----------------------------------------
