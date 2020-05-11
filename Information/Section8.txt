@@ -34,7 +34,11 @@ Urgency
 Physical Attack - face to face
 Virtual Attack - email etc
 
-
+Phishing 
+Spear Phishing 
+Vishing
+Hoax
+Watering hole attack
 
 
 --------------------------------------------- Attacking the websites
