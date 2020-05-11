@@ -64,4 +64,20 @@ Buffer Overflow
 
 
 --------------------------------------------- Exploiting a target
+Pen Test Steps
+    Get AUTHORIZE
+    Discover Vulnerability
+    Exploit Vulnerability
+
+Attack Model
+    White Box
+    Black Box
+
+Passive Discovery
+
+Metasploit
+
+Exploitation
+Banner Grabing
+
 --------------------------------------------- Vulnerability Impact
