@@ -79,5 +79,19 @@ Metasploit
 
 Exploitation
 Banner Grabing
+Pivot - compromised system to attack other systems
+Persistence - 
 
+Armitage-Framework
 --------------------------------------------- Vulnerability Impact
+Embedded System
+
+Weak Configuration  
+
+Velnerable Business Processes
+
+Memory/Buffer Vulnerability
+
+DDL Injection
+
+System sprawl
