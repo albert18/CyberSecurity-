@@ -14,7 +14,28 @@ Forensic Data Acquisition
 6. Interview Witnesses
 7. Track man hours
 
---------------------------------------------------------- 
+--------------------------------------------------------- Contigency Planning
+Disaster Recovery
+Business continuity
+
+
+Backup 
+1. Cold site
+2. Warm Site
+3. Hot Site
+
+Order of Restoration
+Power
+Wired LAN
+ISP link
+Active directory/DNS/DHCP servers
+Accounting Servers
+Sales and accounting workstations
+Video Production Server
+Post Production Server
+Wireless
+Preriphrals(Printers Etc.)
+
 --------------------------------------------------------- 
 --------------------------------------------------------- 
 --------------------------------------------------------- 
