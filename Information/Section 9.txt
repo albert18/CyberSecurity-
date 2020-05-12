@@ -36,7 +36,15 @@ Post Production Server
 Wireless
 Preriphrals(Printers Etc.)
 
---------------------------------------------------------- 
+Annual Exercise
+
+
+After Action Reports
+--------------------------------------------------------- Backups
+Backup Methods
+1.External Hard Drive, Cloud - full backup
+
+File Systems - that has been change
 --------------------------------------------------------- 
 --------------------------------------------------------- 
 --------------------------------------------------------- 
